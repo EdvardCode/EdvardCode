@@ -15,11 +15,11 @@
   </a>
 </div>
 
-  <a href="https://github.com/FresenBer4ik">
-    <img src="https://komarev.com/ghpvc/?username=FresenBer4ik" alt="page views">
+  <a href="https://github.com/EdvardCode">
+    <img src="https://komarev.com/ghpvc/?username=EdvardCode" alt="page views">
   </a>
-  <a href="https://github.com/FresenBer4ik?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FrsenBer4ik?color=green&logo=github">
+  <a href="https://github.com/EdvardCode?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/EdvardCode?color=green&logo=github">
   </a>
 
  ### 🚀 Обо мне
@@ -30,8 +30,8 @@
 
 💬 Задайте мне вопросы или поделитесь советами — я всё время открыт для общения!
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=FresenBer4ik&hide=["issues"]&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=EdvardCode&hide=["issues"]&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FresenBer4ik&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdvardCode&hide_progress=true)
   
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.donationalerts.com/r/edvardoyt)
