@@ -32,4 +32,4 @@ https://modrinth.com/user/EdvardCode
 💬 Задайте мне вопросы или поделитесь советами — я всё время открыт для общения!
 
   
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.donationalerts.com/r/edvardoyt)
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.donationalerts.com/r/edvardcode)
