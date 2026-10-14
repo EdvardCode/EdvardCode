@@ -36,12 +36,10 @@
 
  ### 🚀 Обо мне
 
-🌱 Я начинающий в мире разработки и сейчас изучаю C# И Python. Также я начал заниматься модами для игры Minecraft. Можете увидеть их на Modrinth
-https://modrinth.com/user/EdvardCode
-
-🎯 Мои цели: Создавать чистый, функциональный код, работать над проектами и постоянно учиться!
-
-💬 Задайте мне вопросы или поделитесь советами — я всё время открыт для общения!
+- 💻 Building clean and functional web interfaces.
+- 🎮 Minecraft enthusiast & streamer 
+- 🌱 Currently leveling up my web development skills.
+- 📫 Feel free to reach out or check out my projects below!
 
   
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.donationalerts.com/r/edvardcode)
