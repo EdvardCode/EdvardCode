@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Меня+зовут+EdvardCode.;Рад+видеть+тебя!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;My+name+is+EdvardCode.;Glad+to+see+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -34,7 +34,8 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=EdvardCode&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
- ### 🚀 Обо мне
+# Hi, I'm EdvardCode 👋
+**Frontend Developer | HTML • CSS • JavaScript**
 
 - 💻 Building clean and functional web interfaces.
 - 🎮 Minecraft enthusiast & streamer 
